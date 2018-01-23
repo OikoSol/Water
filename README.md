@@ -13,3 +13,4 @@ In this category, I will list some of the technologies that can harvest and trea
 * **Water filter**: A water filter is a device which removes unwanted solids and/or microsolids from water in order to make it safe for human use.
 * **Solar still**: A solar still is a device using solar energy to evaporate contaminated water and to condensate it into distilled water.
 * **Dew condenser**: A dew condenser is a device that can condense moisture from the air into liquid water.
+* **Glass sphere/Water lens desalinator**: A device which concentrates the sun's rays into a focal point either by the use of a glass sphere or a water lens on a transparent flexible surface, in order to boil saltwater and separate the salts from the freshwater.
